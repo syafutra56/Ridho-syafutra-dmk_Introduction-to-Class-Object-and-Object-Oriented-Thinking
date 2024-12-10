@@ -9,8 +9,7 @@ public:
     string author;
     double price;
 
-    // Konstruktor untuk inisialisasi objek secara langsung
-    Book(string t, string a, double p) {
+        Book(string t, string a, double p) {
         title = t;
         author = a;
         price = p;
